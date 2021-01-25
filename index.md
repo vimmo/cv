@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Vincenzo Immordino
 
-You can use the [editor on GitHub](https://github.com/vimmo/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Genova, Italia
+[vincenzo.immordino@gmail.com](mailto:vincenzo.immordino@gmail.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Experience
+## Columbus Informatica srl
+# from 2015 
+Responsabile della gestione del team sviluppo (analisi, pianificazione e consegne). 
+Sviluppatore software.
+Consulenza e personalizzazione di sistemi gestionali.
+Analisi, sviluppo, configurazione e manutenzione del software gestionale sia desktop che web e base dati.
+Analisi e creazione di siti web.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# from 2012 to 2015 
+Gestione dei progetti dall’analisi allo sviluppo fino ai test finali.
+Consulenza e personalizzazione di sistemi gestionali.
+Configurazione, manutenzione del software gestionale e base dati.
+Sviluppo di progetti di integrazione software. 
+Sviluppo applicazioni web e siti web.
 
-```markdown
-Syntax highlighted code block
+# from 2008 to 2012
+Sviluppatore software: sviluppare e mantenere software gestionale customizzato
 
-# Header 1
-## Header 2
-### Header 3
+### Education
+# in 2008 Corso Programmazione in ambiente Microsoft .NET
+# in 2007 Diploma in Elettronica e Telecomunicazioni
 
-- Bulleted
-- List
+### Language
+# Italiano 
+- madrelingua
+# Inglese 
+- Ottima capacità di lettura
+- Buona capacità si scrittura ed espressione orale
 
-1. Numbered
-2. List
+### Technical Skills
+Creazione software desktop in ambiente Microsoft .NET: console, Windows Form, Windows service, web service.
+Realizzazione applicazioni web-based curandone sia back-end che front-end e siti web statici e dinamici utilizzando i più diffusi CMS Open source.
+Realizzazione di software gestionali su ambiente di sviluppo proprietario Zucchetti.
+Realizzazione di personalizzazioni e add-on al software gestionale Mago4.
+Ottima conoscenza di: c#, c++, Asp.Net, HTML5, CSS, Javascript, JQuery, Bootstrap, database SQLServer e CMS Joomla. 
+Ottima conoscenza dei sistemi e programmi Microsoft quali Windows, IIS Server, Office e Visual Studio 2008-2010, Visio 2010.
+Ottima conoscenza dell’ambiente di sviluppo proprietario TaskBuilder di Zucchetti.
+Buona conoscenza degli sistemi Linux, Apache e MySql.
 
-**Bold** and _Italic_ and `Code` text
+### Other Skills
+Gestire in autonomia un progetto dall’analisi alla consegna.
+Coordinare e organizzare il lavoro del team di sviluppo e pianificarne i rilasci nelle priorità e tempi prestabiliti.
+Buone capacità relazionali e di coordinamento acquisite lavorando in team all’interno del reparto ricerca e sviluppo. 
+Buone capacità comunicative e di comprensione delle esigenze espresse dai clienti acquisite negli anni durante gli incontri per l’analisi dei progetti.
+Relazionare e documentare in maniera efficace quanto necessario per sottoporre il lavoro ad altri membri del team di sviluppo.
+Presentazione del lavoro e dei progetti acquisite durante l’incontro con i committenti e anche in incontri con studenti e corsisti.
+Ottime conoscenze dei flussi gestionali aziendali sia di magazzino che contabile.
+Fotografia, fotoritocco e grafica.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vimmo/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
