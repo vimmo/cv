@@ -54,3 +54,4 @@ Presentazione del lavoro e dei progetti acquisite durante l’incontro con i com
 Ottime conoscenze dei flussi gestionali aziendali sia di magazzino che contabile.
 Fotografia, fotoritocco e grafica.
 
+ 
